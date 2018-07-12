@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Float a property that can optionally position the content left or right.
+Float is a property that can optionally position the content left or right.
 It can be used for columns, or to create a "wrap" effect with text and
 media elements. When `float` is used elements, will start to fill up whitespace
 wherever they will fit. This is not always the intended effect, so how can
